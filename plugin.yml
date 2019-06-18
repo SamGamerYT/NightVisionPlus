@@ -1,0 +1,10 @@
+name: NightVisionPlus
+version: 2.4
+author: SamGamerYT
+main: com.samgameryt.nightvisionplus.Main
+softdepend:
+  - ActionBarAPI
+commands:
+  nightvision:
+    description: Toggles night vision for the user.
+    aliases: [nv]
