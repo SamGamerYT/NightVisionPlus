@@ -20,7 +20,6 @@ public class UpdateChecker {
 
     Logger logger = new Logger();
 
-    private String key = "key=98BE0FE67F88AB82B4C197FAF1DC3B69206EFDCC4D3B80FC83A00037510B99B4&resource=";
     private int resourceNumber = 58282;
 
     public String getKey() {
